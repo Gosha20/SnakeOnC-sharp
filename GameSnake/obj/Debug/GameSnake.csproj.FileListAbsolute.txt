@@ -1,0 +1,12 @@
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\bin\Debug\GameSnake.exe.config
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\bin\Debug\GameSnake.exe
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\bin\Debug\GameSnake.pdb
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\obj\Debug\GameSnake.csprojResolveAssemblyReference.cache
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\obj\Debug\GameSnake.csproj.CoreCompileInputs.cache
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\obj\Debug\GameSnake.exe
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\obj\Debug\GameSnake.pdb
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\bin\Debug\nunit.framework.dll
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\bin\Debug\nunit.framework.pdb
+C:\Users\gosha\Desktop\projects\GameSnake\GameSnake\bin\Debug\nunit.framework.xml
+C:\Users\gosha\Desktop\projects\GameSnake\SnakeOnC-sharp\GameSnake\obj\Debug\GameSnake.exe
+C:\Users\gosha\Desktop\projects\GameSnake\SnakeOnC-sharp\GameSnake\obj\Debug\GameSnake.pdb
